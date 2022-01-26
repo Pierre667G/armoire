@@ -9,4 +9,5 @@ commande pour mettre la capture dans armoire:
 $ mv terminal.png ../armoire/
 cd avec le chemin relatif :
 depuis armoire on va jusqu'au dossier utilisateur
-bonjour tout le monde        	
+bonjour tout le monde
+Hello Pierre ! Bien Joué !
