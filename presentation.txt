@@ -3,3 +3,10 @@ les enfants sont : les dossiers armoire ,capture d'écran,firstApp,index.html et
 git bash.png
 fichiers.png
 terminal.png
+commande pour mettre index.html dans  firstApp:
+$ mv index.html firstApp/
+commande pour mettre la capture dans armoire:
+$ mv terminal.png ../armoire/
+cd avec le chemin relatif :
+depuis armoire on va jusqu'au dossier utilisateur
+bonjour tout le monde        	
